@@ -1,6 +1,7 @@
 # Proxy
 HOST-SUFFIX,npmjs.com, proxy
 HOST-SUFFIX,codesandbox, proxy
+HOST-SUFFIX,deeplx.missuo.ru, proxy
 
 # Direct
 HOST,gitlab.semi-tech.com, direct
