@@ -1,3 +1,6 @@
 # Proxy
 HOST-SUFFIX,npmjs.com, proxy
 HOST-SUFFIX,codesandbox, proxy
+
+# Direct
+HOST,gitlab.semi-tech.com, direct
