@@ -1,3 +1,3 @@
 # Proxy
-HOST-SUFFIX,npmjs.com
-HOST-SUFFIX,codesandbox
+HOST-SUFFIX,npmjs.com, proxy
+HOST-SUFFIX,codesandbox, proxy
