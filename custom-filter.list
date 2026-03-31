@@ -2,6 +2,7 @@
 HOST-SUFFIX,npmjs.com, proxy
 HOST-SUFFIX,codesandbox, proxy
 HOST-SUFFIX,javdb.com, proxy
+HOST-SUFFIX,qwen.ai,proxy
 
 # Direct
 HOST,gitlab.semi-tech.com, direct
