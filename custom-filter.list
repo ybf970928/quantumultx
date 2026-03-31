@@ -6,4 +6,4 @@ HOST-SUFFIX,javdb.com, proxy
 # Direct
 HOST,gitlab.semi-tech.com, direct
 HOST,konvajs.org, direct
-HOST-SUFFIX,qwen.ai,direct
+HOST-KEYWORD,qwen.ai,direct
